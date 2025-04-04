@@ -1,9 +1,15 @@
 # Introducción
 
 Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash.
-El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
 
-Debes completar tres pasos. Para cada uno de ellos, escribe una breve introducción que refleje con claridad cómo pretendes resolver cada paso, y escribe párrafos explicatorios que justifiquen tus decisiones al tiempo que avanzas en tu solución.  También escribe una conclusión que resuma tus hallazgos y elecciones.
+En este proyecto se analizan los datos proporcionados por Instacart, una empresa de entregas de supermercado en línea, con el objetivo de explorar el comportamiento de compra de los usuarios y descubrir relaciones significativas entre variables clave.
+
+El análisis comienza con un Análisis Exploratorio de Datos (EDA), donde se realiza una limpieza y comprensión profunda del dataset. Se examinan aspectos como la frecuencia de pedidos, los productos más comprados, los horarios con mayor actividad, y las categorías más populares.
+
+A lo largo del proceso, se identifican y visualizan patrones, correlaciones y tendencias entre los distintos conjuntos de datos disponibles, como productos, órdenes, usuarios y departamentos. Estas visualizaciones permiten evaluar comportamientos de compra repetitiva, identificar hábitos de consumo y generar hallazgos útiles para futuras estrategias de negocio o personalización de la experiencia del cliente.
+
+Este enfoque no solo proporciona una visión global del funcionamiento de la plataforma, sino que también sienta las bases para desarrollar modelos predictivos o sistemas de recomendación basados en los datos analizados.
+
 
 ### Conclusion general del proyecto:
 - Hay más pedidos los fines de semana (Sabado) que dentro de semana (Miercoles), en general.
